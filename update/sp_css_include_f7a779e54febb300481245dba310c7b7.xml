@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>css2</name>
+        <source>url</source>
+        <sp_css/>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-28 15:01:05</sys_created_on>
+        <sys_id>f7a779e54febb300481245dba310c7b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>css2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_css_include_f7a779e54febb300481245dba310c7b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-28 15:01:05</sys_updated_on>
+        <url>https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap.min.css</url>
+    </sp_css_include>
+</record_update>
